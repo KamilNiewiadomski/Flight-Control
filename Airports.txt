@@ -1,0 +1,48 @@
+John F. Kennedy International Airport
+JFK
+Queens
+New York
+4
+2374
+1299
+4,29
+Charles de Gaulle International Airport
+CDG
+Roissy-en-France
+Ile-de-France
+4
+34
+1872
+119
+London Heathrow Airport
+LHR
+Hillingdon
+Londyn
+2
+1603
+1842
+25
+LaGuardia Airport
+LGA
+Queens
+New York
+2
+2316
+1759
+7
+Miami International Airport
+MIA
+Miami-Dade County
+Florida
+4
+1433
+2734
+3
+Flughafen Berlin-Tempelhof
+THF
+Berlin
+Berlin
+2
+883
+2216
+51
